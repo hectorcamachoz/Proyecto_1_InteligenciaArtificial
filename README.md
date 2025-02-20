@@ -1,6 +1,6 @@
 # Proyecto_1_InteligenciaArtificial
 
-El objetivo de este proyecto es realizar un modelo que prediga el numero bicicletas que se rentaran en un dia, utilizando una base de datos llamada 'day.csv' recopilada de [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset). En este proyecto se utilizaron conocimientos vistos en la clase de Inteligencia Artificial 1, como Regresion lineal, y no lineal, solucion 
+El objetivo de este proyecto es realizar un modelo que prediga el numero bicicletas que se rentaran en un dia, utilizando una base de datos llamada 'day.csv' recopilada de [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset). En este proyecto se utilizaron conocimientos vistos en la clase de Inteligencia Artificial 1, como Regresion lineal y no lineal, solucion 
 de problemas, seleccion de caracteristicas, interpretacion de variables, analisis de metricas de error, y de modelos. Las variables que estan en la base de datos, son las siguientes:
 
 * dteday - Dia
